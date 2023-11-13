@@ -5,3 +5,5 @@ matplotlib
 streamlit
 ydata_profiling
 streamlit-pandas-profiling
+joblib 
+scikit-learn
